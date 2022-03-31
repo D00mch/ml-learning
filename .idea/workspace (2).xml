@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84cba5a8-91d7-4cc3-98a1-895aa8c1a039" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ml_hello/linal/chapter6/introduction_to_eigenvalues.clj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ml_hello/ml_book/draft.clj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ml_hello/ml_book/draft2.clj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ml_hello/playing/playing.clj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/src/ml_hello/linal/chapter5/determinants.clj" />
+    </disable_hints>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/uncomplicate/neanderthal/0.43.1/neanderthal-0.43.1.jar!/uncomplicate/neanderthal/internal/api.clj" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/uncomplicate/neanderthal/0.43.1/neanderthal-0.43.1.jar!/uncomplicate/neanderthal/internal/host/buffer_block.clj" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/uncomplicate/neanderthal/0.43.3/neanderthal-0.43.3.jar!/uncomplicate/neanderthal/core.clj" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/uncomplicate/neanderthal/0.43.3/neanderthal-0.43.3.jar!/uncomplicate/neanderthal/vect_math.clj" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/uncomplicate/neanderthal/0.43.1/neanderthal-0.43.1.jar!/uncomplicate/neanderthal/core.clj" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/uncomplicate/neanderthal/0.43.1/neanderthal-0.43.1.jar!/uncomplicate/neanderthal/linalg.clj" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/uncomplicate/neanderthal/0.43.3/neanderthal-0.43.3.jar!/uncomplicate/neanderthal/native.clj" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/uncomplicate/commons/0.12.3/commons-0.12.3.jar!/uncomplicate/commons/core.clj" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/uncomplicate/neanderthal/0.43.1/neanderthal-0.43.1.jar!/uncomplicate/neanderthal/cuda.clj" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/uncomplicate/neanderthal/0.43.1/neanderthal-0.43.1.jar!/uncomplicate/neanderthal/native.clj" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1zCH2e6gXtuMccqoJIuQdAstra0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="cursive.last.file.extension./Users/a18385139/clojure/ml-hello/src" value="clj" />
+    <property name="cursive.last.file.extension./Users/m1/Yandex.Disk.localized/repos/ml-hello/src" value="clj" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.github.brcosta.cljstuffplugin.util.AppSettingsConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ml_hello/linal/chapter4" />
+      <recent name="$PROJECT_DIR$/src/ml_hello/linal/chapter2" />
+    </key>
+  </component>
+  <component name="ReplState" timestamp="1647599625351">{:repl-history {:ide [], :local [{:command &quot;(ns ml-hello.core\n  (:require [uncomplicate.neanderthal\n             [core :refer :all]\n             #_[native :refer :all]]))&quot;, :offset 126, :ns &quot;ml-hello.core&quot;} {:command &quot;(ns ml-hello.core\n  (:require [uncomplicate.neanderthal\n             [core :refer :all]\n             [native :refer :all]]))&quot;, :offset 124, :ns &quot;ml-hello.core&quot;} {:command &quot;(ns ml-hello.linal.chapter5.permutations-cofactors\n  (:require [uncomplicate.commons.core :refer [with-release]]\n            [uncomplicate.neanderthal\n             [math :refer :all]\n             [linalg :as la]\n             [native :refer :all]\n             [core :refer :all]]))&quot;, :offset 280, :ns &quot;ml-hello.core&quot;}], :remote [{:command &quot;(let [A (dge 2 2 [1 2\n                  3 4] {:layout :row})\n      \n      B (dge 4 4 [1 2  0 0\n                  3 4  0 0\n                  0 0  1 2\n                  0 0  3 4])\n      ]\n  (= (la/det (la/trf! B))\n     (la/det (la/trf! A)))\n  )&quot;, :offset 242, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [A (dge 2 2 [1 2\n                  3 4] {:layout :row})\n      \n      B (dge 4 4 [1 2  0 0\n                  3 4  0 0\n                  0 0  1 2\n                  0 0  3 4])\n      ]\n  (= (la/det (la/trf! B))\n     (* 2 (la/det (la/trf! A))))\n  )&quot;, :offset 248, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [A (dge 2 2 [1 0, 0 1])]\n  (la/det (la/trf! B)))&quot;, :offset 53, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [A (dge 2 2 [1 0, 0 1])]\n  (la/det (la/trf! A)))&quot;, :offset 53, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [A (dge 2 2 [1 2\n                  3 4] )\n\n      B (dge 4 4 [1 2  0 0\n                  3 4  0 0\n                  0 0  1 2\n                  0 0  3 4])\n      ]\n  (= (la/det (la/trf! B))\n     (* 2 (la/det (la/trf! A))))\n  )&quot;, :offset 228, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(ns ml-hello.linal.chapter5.determinants\n  (:require [uncomplicate.commons.core :refer [with-release]]\n            [uncomplicate.neanderthal\n             [math :refer :all]\n             [linalg :as la]\n             [native :refer :all]\n             [core :refer :all]]))&quot;, :offset 270, :ns &quot;user&quot;} {:command &quot;(let [A (dge 2 2 [4 2, 1 3])]\n  (mm A A))&quot;, :offset 41, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [A (dge 2 2 [4 1\n                  2 3] {:layout :row})]\n  (mm A A))&quot;, :offset 73, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [A (dge 2 2 [4 1\n                  2 3] {:layout :row})\n      A-1 (scal 1/10 (dge 2 2 [3 -1\n                     -2 4] {:layout :row}))]\n  (mm A A-1))&quot;, :offset 155, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [A (dge 3 3 [3 6 -3, 3 8 5, 4 7 -9])]\n  (la/det A)\n  )&quot;, :offset 59, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [A (dge 3 3 [3 6 -3, 3 8 5, 4 7 -9])]\n  (la/det (la/tri A))\n  )&quot;, :offset 68, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [A (dge 3 3 [3 6 -3, 3 8 5, 4 7 -9])]\n  (la/trf A)\n  )&quot;, :offset 59, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [A (dge 3 3 [3 6 -3, 3 8 5, 4 7 -9])]\n  (:lu (la/trf A))\n  )&quot;, :offset 65, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [A (dge 3 3 [3 6 -3, 3 8 5, 4 7 -9])]\n  (la/det (la/trf A))\n  )&quot;, :offset 68, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(conj [] 1 2)&quot;, :offset 13, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(conj [0] 1)&quot;, :offset 12, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(defn hilbert [n]\n  (loop [i 0\n         j 0\n         r []]\n    (if (= j n)\n      r\n      (if (= i n)\n        (recur 0 (inc j) r)\n        (recur (inc i) j (conj r i))\n        ))))&quot;, :offset 178, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(hilbert 4)&quot;, :offset 11, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(+ 1 -1)&quot;, :offset 8, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(defn hilbert-element [i j]\n  (/ 1 (+ i j -1)))&quot;, :offset 47, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(defn hilbert [n]\n  (loop [i 0\n         j 0\n         r []]\n    (if (= j n)\n      r\n      (if (= i n)\n        (recur 0 (inc j) r)\n        (recur (inc i) j (conj r (hilbert-element (inc i) (inc j))))\n        ))))&quot;, :offset 210, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(dge 4 4 (hilbert 4))&quot;, :offset 21, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [m (dge 4 4 (hilbert 1))]\n  (prn m)\n  )&quot;, :offset 44, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [n 2\n      m (dge n n (hilbert n))]\n  (prn m)\n  )&quot;, :offset 54, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [n 3\n      m (dge n n (hilbert n))]\n  (prn m)\n  )&quot;, :offset 54, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(doseq [n (range 1 10)]\n  (prn n)\n  )&quot;, :offset 37, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [n 3\n      m (dge n n (hilbert n))]\n  (la/det m)\n  )&quot;, :offset 57, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [n 3\n      m (dge n n (hilbert n))]\n  (la/det (la/trf m))\n  )&quot;, :offset 66, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [n 3\n      m (dge n n (hilbert n))]\n  (int (la/det (la/trf m)))\n  )&quot;, :offset 72, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [n 4\n      m (dge n n (hilbert n))]\n  (la/det (la/trf m))\n  )&quot;, :offset 66, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [n 10\n      m (dge n n (hilbert n))]\n  (la/det (la/trf m))\n  )&quot;, :offset 67, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(doseq [n (range 1 11)]\n  (println\n   (la/det (la/trf\n             (dge n n (hilbert n))))))&quot;, :offset 92, :ns &quot;ml-hello.linal.chapter5.determinants&quot;} {:command &quot;(let [A (dge 3 3 [2 -1 0\n                  -1 2 -1\n                  0 -1 2] {:layout :row})]\n  A\n  )&quot;, :offset 101, :ns &quot;ml-hello.linal.chapter5.permutations-cofactors&quot;} {:command &quot;(time (sort (range 1000)))&quot;, :offset 26, :ns &quot;ml-hello.linal.chapter5.permutations-cofactors&quot;} {:command &quot;(time (class (sort (range 1000000))))&quot;, :offset 37, :ns &quot;ml-hello.linal.chapter5.permutations-cofactors&quot;} {:command &quot;(time (class (sort (range 100000))))\n&quot;, :offset 37, :ns &quot;ml-hello.linal.chapter5.permutations-cofactors&quot;} {:command &quot;(let [A (dge 6 6 [1 1 0 0 0 0\n                  1 0 1 0 0 0\n                  0 1 1 0 0 0\n                  0 0 0 1 1 0\n                  0 0 0 1 0 1\n                  0 0 0 0 1 1] {:layout :row})]\n  (la/det (la/trf! A)))&quot;, :offset 221, :ns &quot;ml-hello.linal.chapter5.permutations-cofactors&quot;} {:command &quot;(let [C (dge 6 6 [1 1 0 0 0 0\n                  1 0 1 0 0 0\n                  0 1 1 0 0 0\n                  0 0 0 1 1 0\n                  0 0 0 1 0 1\n                  0 0 0 0 1 1] {:layout :row})]\n  (la/det (la/trf! C)))\n&quot;, :offset 222, :ns &quot;ml-hello.linal.chapter5.permutations-cofactors&quot;} {:command &quot;(+ 1)&quot;, :offset 5, :ns &quot;user&quot;} {:command &quot;[2 -1 0\n                  -1 2 -1\n                  0 -1 2]&quot;, :offset 59, :ns &quot;ml-hello.linal.chapter5.permutations-cofactors&quot;} {:command &quot;-3&quot;, :offset 2, :ns &quot;ml-hello.linal.chapter5.crames-rule-inverses-volumes&quot;} {:command &quot;(let [A (dge 3 3 [2 6 2,\n                  1 4 2,\n                  5 9 0] {:layout :row})\n      B (dge 3 3 [-9 9 4,\n                  5 -5 -1\n                  -5.5 6 1] {:layout :row})\n      ]\n  (mm A B))&quot;, :offset 206, :ns &quot;ml-hello.linal.chapter5.crames-rule-inverses-volumes&quot;} {:command &quot;(let [H (dge 4 4 [1 1 1 1\n                  1 1 -1 -1\n                  1 -1 -1 1\n                  1 -1 1 -1])]\n  (la/det (la/trf! H)))&quot;, :offset 136, :ns &quot;ml-hello.linal.chapter5.crames-rule-inverses-volumes&quot;} {:command &quot;(ns ml-hello.linal.chapter5.crames-rule-inverses-volumes\n  (:require [uncomplicate.commons.core :refer [with-release]]\n            [uncomplicate.neanderthal\n             [math :refer :all]\n             [linalg :as la]\n             [native :refer :all]\n             [core :refer :all]]))&quot;, :offset 286, :ns &quot;user&quot;} {:command &quot;(binding [*out* (java.io.StringWriter.)]\n\t(let [result (eval '(let [A (dge )]))]\n\t\t(spit \&quot;stdout.edn\&quot; (str \&quot;\\n\&quot; *out*) :append true)\n\t\t(spit \&quot;stdout.edn\&quot; (with-out-str (clojure.pprint/pprint result))\n\t\t\t\t\t:append true)\n\t\tresult))&quot;, :offset 229, :ns &quot;ml-hello.linal.chapter5.crames-rule-inverses-volumes&quot;} {:command &quot;(+ 1 1)&quot;, :offset 7, :ns &quot;ml-hello.core&quot;} {:command &quot;(ns ml-hello.linal.chapter5.permutations-cofactors\n  (:require [uncomplicate.commons.core :refer [with-release]]\n            [uncomplicate.neanderthal\n             [math :refer :all]\n             [linalg :as la]\n             [native :refer :all]\n             [core :refer :all]]))&quot;, :offset 280, :ns &quot;ml-hello.core&quot;} {:command &quot;(let [A (dge 3 3 [1 1 0\n                  1 0 1\n                  0 1 1] {:layout :row})]\n  (la/det (la/trf! A)))&quot;, :offset 113, :ns &quot;ml-hello.linal.chapter5.permutations-cofactors&quot;} {:command &quot;(let [I (dge 3 3 [1 0 0\n                  0 1 0\n                  0 0 1])]\n  (la/det (la/trf! I)))&quot;, :offset 98, :ns &quot;ml-hello.linal.chapter5.permutations-cofactors&quot;} {:command &quot;(let [A (dge 3 3 [2 -1 0\n                  -1 2 -1\n                  0 -1 2] {:layout :row})]\n  (la/det (la/trf A)))&quot;, :offset 116, :ns &quot;ml-hello.linal.chapter5.permutations-cofactors&quot;} {:command &quot;(ns ml-hello.linal.chapter4.projection\n  (:require [uncomplicate.commons.core :refer [with-release]]\n            [uncomplicate.neanderthal\n             [math :refer :all]\n             [linalg :as la]\n             [native :refer :all]\n             [core :refer :all]]))&quot;, :offset 268, :ns &quot;ml-hello.linal.chapter5.permutations-cofactors&quot;} {:command &quot;(defn get-P [A]\n  (mm A\n      (inv (mm (trans A) A))\n      (trans A)))&quot;, :offset 70, :ns &quot;ml-hello.linal.chapter4.projection&quot;} {:command &quot;(let [a (dge 3 3 [1 2 2\n                  2 4 4\n                  2 4 4] {:layout :row})]\n  (scal 1/9 (mm a a)))&quot;, :offset 112, :ns &quot;ml-hello.linal.chapter4.projection&quot;} {:command &quot;(ns ml-hello.linal.chapter6.introduction-to-eigenvalues\n  (:require [uncomplicate.commons.core :refer [with-release]]\n            [uncomplicate.neanderthal\n             [math :refer :all]\n             [linalg :as la]\n             [native :refer :all]\n             [core :refer :all]]))&quot;, :offset 285, :ns &quot;ml-hello.linal.chapter4.projection&quot;} {:command &quot;(+ 1 1\n   )&quot;, :offset 11, :ns &quot;ml-hello.linal.chapter6.introduction-to-eigenvalues&quot;} {:command &quot;(def x (dv 0.3 0.9))&quot;, :offset 20, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(def h1 (mv w1 x))&quot;, :offset 18, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(with-release [x (dv 0.3 0.9)\n               w1 (dge 4 2 [0.3 0.1 0.9 0.0\n                            0.6 2.0 3.7 1.0])\n               h1 (dv 4)]\n              (mv! w1 x h1))&quot;, :offset 174, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(ns ml-hello.ml-book.draft\n  (:require [uncomplicate.commons.core :refer [with-release]]\n            [uncomplicate.neanderthal\n             [native :refer [dv dge]]\n             [core :refer [mv mv!]]]))&quot;, :offset 203, :ns &quot;user&quot;} {:command &quot;(with-release [x  (dv 0.3 0.9)\n               w1 (dge 4 2 [0.3 0.1 0.9 0.0\n                            0.6 2.0 3.7 1.0])\n               h1 (dv 4)\n               y  (dv 1)]\n  (println (mv! (mv! w1 x h1) y)))&quot;, :offset 206, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(with-release [x  (dv 0.3 0.9)\n               w1 (dge 4 2 [0.3 0.1 0.9 0.0\n                            0.6 2.0 3.7 1.0])\n               w2 (dge 1 4 [0.75 0.15 0.22 0.33])\n               h1 (dv 4)\n               y  (dv 1)]\n  (println (mv! w2 (mv! w1 x h1) y)))&quot;, :offset 259, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(with-release [A  (dge 2 2 [0.8 0.3\n                            0.2 0.7] {:layout :row})\n               AA (mm A A)\n               ]\n  AA\n  )&quot;, :offset 141, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(with-release\n  [A (dge 2 2 [-1 2, 3 0])]\n  (mm A A))&quot;, :offset 53, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(dge 2 2 [-1 2, 3 0])&quot;, :offset 21, :ns &quot;ml-hello.core&quot;} {:command &quot;(ns ml-hello.ml-book.draft\n  (:require [uncomplicate.commons.core :refer [with-release]]\n            #_[uncomplicate.fluokitten.core :refer :all]\n            [uncomplicate.neanderthal\n             [vect-math :refer :all]\n             [math :refer :all]\n             [linalg :as la]\n             [native :refer :all]\n             [core :refer :all]]))&quot;, :offset 350, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(defn step! [threshold x]\n  (fmap signum (axpy! -1.0 threshold (vect-math/fmax! threshold x x))))&quot;, :offset 97, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(with-release\n  [x (dv 0.3 0.9)\n   w1 (dge 4 2 [0.3 0.1 0.9 0.0,\n                0.6 2.0 3.7 1.0])\n   threshold (dv 0.7 0.2 1.1 2)]\n  (mv w1 x)\n  )&quot;, :offset 147, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(vect-math/fmax! 2 (dv 1 2) (dv 1 2))&quot;, :offset 37, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(vect-math/fmax! 2.0 (dv 1 2) (dv 1 2))&quot;, :offset 39, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(vect-math/fmax! [1 2] [2 2])&quot;, :offset 29, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(vect-math/fmax! (dv 0.7 0.2 1.1 2) (dv 0.3 0.9) (dv 0.3 0.9))&quot;, :offset 62, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(with-release\n  [x         (dv 0.3 0.9)\n   w1        (dge 4 2 [0.3 0.1 0.9 0.0,\n                       0.6 2.0 3.7 1.0])\n   threshold (dv 0.7 0.2 1.1 2)]\n  (mv w1 x)\n  )&quot;, :offset 169, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(vect-math/fmax! (dv 0.7 0.2 1.1 2) (dv 0.63 1.83 3.60 0.90) (dv 0.63 1.83 3.60 0.90))&quot;, :offset 86, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(vect-math/fmax! (dv 0.7 0.2 1.1 2) (dv 0.63 1.83 3.60 0.90))&quot;, :offset 61, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(defn step! [threshold x]\n  (fmap signum (axpy! -1.0 threshold (vect-math/fmax! threshold x))))&quot;, :offset 95, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(axpy! -1.0 (dv 0.7 0.2 1.1 2) (vect-math/fmax! (dv 0.7 0.2 1.1 2) (dv 0.63 1.83 3.60 0.90)))&quot;, :offset 93, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(axpy! -1.0 (dv 0.7 0.2 1.1 2) (vect-math/fmax! (dv 0.7 0.2 1.1 2) (dv 0.63 1.83 3.60 0.90) (dv 0.63 1.83 3.60 0.90)))&quot;, :offset 118, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(axpy! -1.0 (dv 0.7 0.2 1.1 2) \n       (vect-math/fmax! (dv 0.7 0.2 1.1 2) (dv 0.63 1.83 3.60 0.90)))&quot;, :offset 101, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(axpy! -1.0 (dv 0.7 0.2 1.1 2) \n       (vect-math/fmax! (dv 0.7 0.2 1.1 2) (dv 0.63 1.83 3.60 0.90) (dv 0.63 1.83 3.60 0.90)))&quot;, :offset 126, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(defn relu! [threshold x]\n  (axpy! -1.0 threshold (vect-math/fmax! threshold x x)))&quot;, :offset 83, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(with-release\n  [x         (dv 0.3 0.9)\n   w1        (dge 4 2 [0.3 0.1 0.9 0.0,\n                       0.6 2.0 3.7 1.0])\n   threshold (dv 0.7 0.2 1.1 2)]\n  (relu! threshold (mv w1 x))\n  )&quot;, :offset 187, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(with-release [x         (dv 0.3 0.9)\n               w1        (dge 4 2 [0.3 0.1 0.9 0.0,\n                                   0.6 2.0 3.7 1.0])\n               threshold (dv 0.7 0.2 1.1 2)]\n  (vect-math/relu! threshold (mv x w1))\n  )&quot;, :offset 231, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(ns ml-hello.ml-book.draft\n  (:require [uncomplicate.commons.core :refer [with-release]]\n            [uncomplicate.fluokitten.core :refer :all]\n            [uncomplicate.neanderthal\n             [vect-math :as vect-math]\n             [math :refer :all]\n             [linalg :as la]\n             [native :refer :all]\n             [core :refer :all]])\n  (:import [clojure.lang IFn])\n  )&quot;, :offset 384, :ns &quot;ml-hello.core&quot;} {:command &quot;(deftype FullyConnectedIference [w b h activ-fn]\n  Releaseable \n  (release [_]\n    (.release w)\n    (.release b)\n    (.release h))\n  Parameters\n  (weights [this] w)\n  (bias [this] b)\n  IFn\n  (invoke [_ x]\n    (activ-fn b (mv! w x h))))&quot;, :offset 235, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(ns ml-hello.ml-book.draft\n  (:require [uncomplicate.commons.core :refer [Releaseable with-release let-release]]\n            [uncomplicate.fluokitten.core :refer :all]\n            [uncomplicate.neanderthal\n             [vect-math :as vect-math]\n             [math :refer :all]\n             [linalg :as la]\n             [native :refer :all]\n             [core :refer :all]])\n  (:import (clojure.lang IFn)\n           (uncomplicate.commons.core Releaseable))\n  )&quot;, :offset 459, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(ns ml-hello.ml-book.draft\n  (:require [uncomplicate.commons.core :refer [Releaseable with-release let-release]]\n            [uncomplicate.fluokitten.core :refer :all]\n            [uncomplicate.neanderthal\n             [vect-math :as vect-math]\n             [math :refer :all]\n             [linalg :as la]\n             [native :refer :all]\n             [core :refer :all]])\n  (:import (clojure.lang IFn)))&quot;, :offset 405, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(defn fully-connected [active-fn in-dim out-dim]\n  (let-release [w    (dge out-dim in-dim)\n                bias (dv out-dim)\n                h    (dv out-dim)]\n    (-&gt;FullyConnectedIference w bias h active-fn)))&quot;, :offset 211, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(with-release [x       (dv 0.3 0.9)\n               layer-1 (fully-connected activ-sigmoid! 2 4)\n               ]\n  (transfer! [0.3 0.1 0.9 0.0 0.6 2.0 3.7 1.0] (weights layer-1))\n  (transfer! (dv 0.7 0.2 1.1 2) (bias layer-1))\n  (println (layer-1 x)))&quot;, :offset 251, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(defprotocol Parameters\n  (weights [this])\n  (bias [this]))&quot;, :offset 59, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(with-release [x       (dv 0.3 0.9)\n               layer-1 (fully-connected activ-sigmoid! 2 4)\n               layer-2 (fully-connected activ-sigmoid! 4 1)\n               ]\n  (transfer! [0.3 0.1 0.9 0.0 0.6 2.0 3.7 1.0] (weights layer-1))\n  (transfer! (dv 0.7 0.2 1.1 2) (bias layer-1))\n  (transfer! [0.75 0.15 0.22 0.33] (weights layer-2))\n  (transfer! [0.3] (bias layer-2))\n  (println (layer-2 (layer-1 x))))&quot;, :offset 410, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(with-release [x       (dv 0.3 0.9)\n               layer-1 (fully-connected activ-sigmoid! 2 4)\n               layer-2 (fully-connected activ-sigmoid! 4 1)\n               ]\n  (transfer! [0.3 0.1 0.9 0.0 0.6 2.0 3.7 1.0] (weights layer-1))\n  (transfer! [0.7 0.2 1.1 2] (bias layer-1))\n  (transfer! [0.75 0.15 0.22 0.33] (weights layer-2))\n  (transfer! [0.3] (bias layer-2))\n  (println (layer-2 (layer-1 x))))&quot;, :offset 407, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(with-release [x       (dv 0.3 0.9)\n               layer-1 (fully-connected activ-tanh! 2 4)\n               layer-2 (fully-connected activ-sigmoid! 4 1)]\n  (transfer! [0.3 0.1 0.9 0.0 0.6 2.0 3.7 1.0] (weights layer-1))\n  (transfer! [0.7 0.2 1.1 2] (bias layer-1))\n  (transfer! [0.75 0.15 0.22 0.33] (weights layer-2))\n  (transfer! [0.3] (bias layer-2))\n  (println (-&gt; x layer-1 layer-2)))&quot;, :offset 389, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(defn sigmoid! [x]\n  (vect-math/linear-frac! 0.5 (vect-math/tanh! (scal! 0.5 x)) 0.5))&quot;, :offset 86, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(entry (dv 2) 1)&quot;, :offset 16, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(rk! (dv 1 2 3) (dge 3 2 [1 2 3\n                          4 5 6]))&quot;, :offset 66, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(let-release [a (dge 4 1)]\n  (with-release [x           (dv 0.3 0.9)\n                 layer-1     (fully-connected sigmoid! 2 4)\n                 w1          (dge 4 2 [0.3 0.1 0.9 0.0\n                                       0.6 2.0 3.7 1.0])\n                 bias-vector (dv 0.7 0.2 1.1 2)\n                 ones        (dv [1])]\n    (copy! w1 (weights layer-1))\n    (copy! bias-vector (bias layer-1))\n    (layer-1 x ones a)))&quot;, :offset 424, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(deftype FullyConnectedIference [w b h activ-fn]\n  Releaseable\n  (release [_]\n    (.release w)\n    (.release b)\n    (.release h))\n  Parameters\n  (weights [this] w)\n  (bias [this] b)\n  IFn\n  (invoke [_ x]\n    (activ-fn b (mv! w x h)))\n  (invoke [_ x ones a]\n    (activ-fn (rk! -1.0 b ones (mm! 1.0 w x 1.0 a)))))&quot;, :offset 311, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(deftype FullyConnectedIference [w b h activ-fn]\n  Releaseable\n  (release [_]\n    (.release w)\n    (.release b)\n    (.release h))\n  Parameters\n  (weights [this] w)\n  (bias [this] b)\n  IFn\n  (invoke [_ x]\n    (activ-fn b (mv! w x h)))\n  (invoke [_ x ones a]\n    (activ-fn (rk! -1.0 b ones (mm! 1.0 w x 0.0 a)))))&quot;, :offset 311, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(let-release [a (dge 4 1)]\n  (with-release [x           (dge 2 1 [0.3 0.9])\n                 layer-1     (fully-connected sigmoid! 2 4)\n                 w1          (dge 4 2 [0.3 0.1 0.9 0.0\n                                       0.6 2.0 3.7 1.0])\n                 bias-vector (dv 0.7 0.2 1.1 2)\n                 ones        (dv [1])]\n    (copy! w1 (weights layer-1))\n    (copy! bias-vector (bias layer-1))\n    (layer-1 x ones a)))&quot;, :offset 431, :ns &quot;ml-hello.ml-book.draft&quot;} {:command &quot;(ns ml-hello.ml-book.draft2\n  (:require [uncomplicate.commons.core :refer [Releaseable with-release let-release]]\n            [uncomplicate.fluokitten.core :refer :all]\n            [uncomplicate.neanderthal\n             [vect-math :as vect-math]\n             [math :refer :all]\n             [linalg :as la]\n             [native :refer :all]\n             [core :refer :all]])\n  (:import (clojure.lang IFn)))&quot;, :offset 406, :ns &quot;ml-hello.ml-book.draft&quot;}]}}</component>
+  <component name="RunManager" selected="Clojure REPL.Arch">
+    <configuration name="Tmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ml_hello.experiments.Tmp" />
+      <module name="ml-hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="bbPath" value="" />
+      <setting name="parameters" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <setting name="workingDir" value="" />
+      <setting name="focusEditor" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Arch" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <module name="ml-hello" />
+      <setting name="displayName" value="Arch" />
+      <setting name="host" value="localhost" />
+      <setting name="port" value="40000" />
+      <setting name="replType" value="NREPL" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Repl" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="ml-hello" />
+      <setting name="displayName" value="Repl" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="repl_docker" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <module name="ml-hello" />
+      <setting name="displayName" value="repl_docker" />
+      <setting name="host" value="127.0.0.1" />
+      <setting name="port" value="8080" />
+      <setting name="replType" value="NREPL" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="repl_docker_neanderthal" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <module name="ml-hello" />
+      <setting name="displayName" value="Unnamed" />
+      <setting name="host" value="localhost" />
+      <setting name="port" value="8888" />
+      <setting name="replType" value="NREPL" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Tmp" />
+      <item itemvalue="Clojure REPL.Repl" />
+      <item itemvalue="Clojure REPL.repl_docker" />
+      <item itemvalue="Clojure REPL.Arch" />
+      <item itemvalue="Clojure REPL.repl_docker_neanderthal" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tmp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84cba5a8-91d7-4cc3-98a1-895aa8c1a039" name="Default Changelist" comment="" />
+      <created>1633644944250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633644944250</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="Dockerfile" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
